@@ -20,8 +20,9 @@ const MessagePage = () => {
           transition={{ delay: 0.3 }}
         >
           <img
-            src="[Replace with your girlfriend's photo URL]"
-            alt="Birthday Girl"
+            src="src/components/img/girlfriend.png"
+            
+            alt="Birthday "
             className="rounded-lg shadow-xl w-full h-48 sm:h-64 object-cover"
           />
           <motion.div 
@@ -45,15 +46,16 @@ const MessagePage = () => {
           </h1>
           
           <p className="text-lg sm:text-xl text-gray-700 leading-relaxed px-2 sm:px-4">
-            [Replace with your personal message]
+            [วันนี้เป็นวันที่อ้วนโตขึ้นอีกปีละน้าาา ขอให้อ้วนมีฟามสุขมั่กๆกินอิ่มนอนหลับบ สมหวังทุกๆเรื่องเลย อ้วนมีอะไรไม่สบายใจเค้าพร้อมอยู่ข้างๆตะเหมออ 
+            ขอให้เราคบกันนานๆตลอดทุกช่วงของชีวิต ทั้งสุขเเละทุกข์เราจะผ่านไปด้วยกันน อยู่กับเค้าไปนานๆนะะ ]
           </p>
 
           <div className="pt-4 sm:pt-6">
             <p className="text-base sm:text-lg text-pink-500 font-semibold">
-              With all my love,
+              เค้ารักอ้วนน้าา
             </p>
             <p className="text-lg sm:text-xl text-yellow-600 font-bold">
-              [Your name]
+              [ภูววว]
             </p>
           </div>
 
