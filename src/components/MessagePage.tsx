@@ -20,10 +20,10 @@ const MessagePage = () => {
           transition={{ delay: 0.3 }}
         >
           <img
-            src="src/components/img/girlfriend.png"
+            src="src/components/img/gf3.png"
             
             alt="Birthday "
-            className="rounded-lg shadow-xl w-full h-48 sm:h-64 object-cover"
+            className="rounded-lg shadow-xl w-full h-49 sm:h-70 object-cover"
           />
           <motion.div 
             className="absolute -right-2 sm:-right-4 -bottom-2 sm:-bottom-4 flex items-center gap-2"
@@ -47,7 +47,7 @@ const MessagePage = () => {
           
           <p className="text-lg sm:text-xl text-gray-700 leading-relaxed px-2 sm:px-4">
             [วันนี้เป็นวันที่อ้วนโตขึ้นอีกปีละน้าาา ขอให้อ้วนมีฟามสุขมั่กๆกินอิ่มนอนหลับบ สมหวังทุกๆเรื่องเลย อ้วนมีอะไรไม่สบายใจเค้าพร้อมอยู่ข้างๆตะเหมออ 
-            ขอให้เราคบกันนานๆตลอดทุกช่วงของชีวิต ทั้งสุขเเละทุกข์เราจะผ่านไปด้วยกันน อยู่กับเค้าไปนานๆนะะ ]
+            ขอให้เราคบกันนานๆในทุกช่วงของชีวิต ทั้งสุขเเละทุกข์เราจะผ่านไปด้วยกันน อยู่กับเค้าไปนานๆนะะ ]
           </p>
 
           <div className="pt-4 sm:pt-6">
